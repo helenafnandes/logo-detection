@@ -1,0 +1,5 @@
+train: ../dataset/images/train  # Caminho para o diretório de imagens de treino
+val: ../dataset/images/val      # Caminho para o diretório de imagens de validação
+
+nc: 1  # Número de classes (no seu caso, "logo", então pode ser 1)
+names: ['logo']  # Nome das classes (no seu caso, apenas "logo")
